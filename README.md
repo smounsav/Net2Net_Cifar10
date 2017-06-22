@@ -26,4 +26,5 @@ The training will be done using the stochastic gradient descent method with a lo
 The size of a mini-batch is 100 images.
 
 Reference
+
 Tianqi Chen, Ian Goodfellow, and Jonathon Shlens. Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER. Arvix: 1511.05641
